@@ -2,23 +2,12 @@
   "name": "json-rule-editor",
   "version": "1.0.0",
   "description": "json-rule-editor",
-  "homepage": "https://github.com/vinzdeveloper/json-rule-editor",
+  "homepage": "https://github.com/asudbury/json-rule-editor",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot",
     "lint": "eslint 'src/**/*.js' -f table --max-warnings 0",
     "build": "webpack --mode=production"
-  },
-  "author": "vinzdeveloper@gmail.com",
-  "license": "ISC",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vinzdeveloper/json-rule-editor.git"
   },
   "engines": {
     "node": ">=10.15.3",
