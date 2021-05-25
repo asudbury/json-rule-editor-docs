@@ -10,7 +10,7 @@
 
 **_Step2: Place the json rule file_**
 
-1. Place the generated rule file (as generated in [previous section](https://asudbury.github.io/json-rule-editor/docs/create-rules.html)) in your `src/` directory
+1. Place the generated rule file (as generated in [previous section](https://asudbury.github.io/json-rule-editor-docs/create-rules.html)) in your `src/` directory
 
 for ex: `src/rules/Employee-Salary.json`
 
@@ -55,8 +55,8 @@ _Note:_
 > Please refer the [json rules engine](https://github.com/CacheControl/json-rules-engine) site
 > to understand the features and advanced concepts.
 
-[Next section - Manage existing rule](https://asudbury.github.io/json-rule-editor/docs/manage-rules.html)
+[Next section - Manage existing rule](https://asudbury.github.io/json-rule-editor-docs/manage-rules.html)
 
-[Go back to previous page](https://asudbury.github.io/json-rule-editor/docs/create-rules.html)
+[Go back to previous page](https://asudbury.github.io/json-rule-editor-docs/create-rules.html)
 
-[Go Home](https://asudbury.github.io/json-rule-editor/docs/)
+[Go Home](https://asudbury.github.io/json-rule-editor-docs/)

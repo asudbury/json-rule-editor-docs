@@ -26,6 +26,6 @@ It is fairly straight forward process to incorporate the json rules in your appl
 
 Lets see how to create json rule file using this tool in next section
 
-[Next section - Create decisions using rule editor](https://asudbury.github.io/json-rule-editor/docs/create-rules.html)
+[Next section - Create decisions using rule editor](https://asudbury.github.io/json-rule-editor-docs/create-rules.html)
 
-[Go back to previous page](https://asudbury.github.io/json-rule-editor/docs/)
+[Go back to previous page](https://asudbury.github.io/json-rule-editor-docs/)

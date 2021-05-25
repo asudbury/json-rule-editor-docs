@@ -16,11 +16,11 @@ Facinating feature it implies is, we can validate the business decisions instant
 
 To launch the json rule editor tool, you can do either of the below
 
-1.      Click [json rule editor](https://www.json-rule-editor.com)
+1.       Click [json rule editor](https://www.json-rule-editor.com)
 2.  or install it locally via `git clone https://github.com/vinzdeveloper/json-rule-editor.git`
     - start the application by `npm install` and `npm start`
 
-The detailed steps to create json rule file using this tool in [next section](https://asudbury.github.io/json-rule-editor/docs/create-rules.html).
+The detailed steps to create json rule file using this tool in [next section](https://asudbury.github.io/json-rule-editor-docs/create-rules.html).
 
 ### Thanks to json-rules-engine:
 
@@ -32,9 +32,9 @@ This documentation explains the steps to create / manage rules in json rule edit
 
 This documentation covers,
 
-1. [Why Rule Engine?](https://asudbury.github.io/json-rule-editor/docs/rule-engine.html)
-2. [Create Business Decisions using Json Rule Editor](https://asudbury.github.io/json-rule-editor/docs/create-rules.html)
-3. [Implementation of rules in application](https://asudbury.github.io/json-rule-editor/docs/implementation.html)
-4. [Manage existing rule](https://asudbury.github.io/json-rule-editor/docs/manage-rules.html)
-5. [More examples in Decisions](https://asudbury.github.io/json-rule-editor/docs/decisions.html)
-6. [Advanced examples](https://asudbury.github.io/json-rule-editor/docs/advanced.html)
+1. [Why Rule Engine?](https://asudbury.github.io/json-rule-editor-docs/rule-engine.html)
+2. [Create Business Decisions using Json Rule Editor](https://asudbury.github.io/json-rule-editor-docs/create-rules.html)
+3. [Implementation of rules in application](https://asudbury.github.io/json-rule-editor-docs/implementation.html)
+4. [Manage existing rule](https://asudbury.github.io/json-rule-editor-docs/manage-rules.html)
+5. [More examples in Decisions](https://asudbury.github.io/json-rule-editor-docs/decisions.html)
+6. [Advanced examples](https://asudbury.github.io/json-rule-editor-docs/advanced.html)

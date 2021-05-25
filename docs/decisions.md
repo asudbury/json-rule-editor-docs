@@ -18,39 +18,39 @@ We get new requirement to add _"Architect"_ role with the same salary as _"Manag
 
 1. Create a new decision with same salary.
 
-   ![create new decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions1.png)
+   ![create new decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions1.png)
 
 2. Or You can modify the existing decision by nesting with **any** condition as below
 
-   ![create another decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions2.png)
+   ![create another decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions2.png)
 
-First solution is same as we discussed before. Please refer [previous section](https://asudbury.github.io/json-rule-editor/docs/create-rules.html) incase any queries,
+First solution is same as we discussed before. Please refer [previous section](https://asudbury.github.io/json-rule-editor-docs/create-rules.html) incase any queries,
 
 Lets explore the second solution to understand how nested conditions can be created.
 
 _Step 1: Add new decision with two facts experience and type_
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions3.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions3.png)
 
 _Step 2: Select "Add Any" menu in **"Step 2: Add / Remove facts"** - you will get something as below_
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions4.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions4.png)
 
 _Step 3: Click "any" node as highlighted below to add facts under this node_
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions5.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions5.png)
 
 _Step 4: Select "Add Facts" menu in **"Step 2: Add / Remove facts"** and click Add button_
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions6.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions6.png)
 
 **After added:**
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions7.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions7.png)
 
 _Step 5: Select "Add Facts" menu in **"Step 2: Add / Remove facts"** and click Add button to add another role "Architect"_
 
-![create nested decision](https://asudbury.github.io/json-rule-editor/docs/images/more-decisions8.png)
+![create nested decision](https://asudbury.github.io/json-rule-editor-docs/images/more-decisions8.png)
 
 _Step 6: Select "Add outcome" menu in **"Step 3: Add outcome"** and give value_
 
@@ -60,8 +60,8 @@ That's it!!!
 
 Likewise, you can add any number of nested nodes under single conditions. Both solution 1 and solution 2 are doing the same thing, depends on business requirement and number of facts, decide the pattern whichver it suits better.
 
-[Next section - Advanced examples](https://asudbury.github.io/json-rule-editor/docs/advanced.html)
+[Next section - Advanced examples](https://asudbury.github.io/json-rule-editor-docs/advanced.html)
 
-[Go back to previous page](https://asudbury.github.io/json-rule-editor/docs/manage-rules.html)
+[Go back to previous page](https://asudbury.github.io/json-rule-editor-docs/manage-rules.html)
 
-[Go Home](https://asudbury.github.io/json-rule-editor/docs/)
+[Go Home](https://asudbury.github.io/json-rule-editor-docs/)
