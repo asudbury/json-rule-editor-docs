@@ -39,7 +39,7 @@
     "react-redux": "7.2.9",
     "react-router-dom": "6.28.0",
     "react-spinners": "0.15.0",
-    "redux": "4.0.5",
+    "redux": "4.2.1",
     "redux-thunk": "2.4.2",
     "sass-loader": "16.0.4",
     "selectn": "1.1.2",
