@@ -31,7 +31,7 @@
     "lodash": "4.17.21",
     "mini-css-extract-plugin": "2.9.2",
     "postcss-loader": "7.0.2",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-bootstrap-sweetalert": "5.2.0",
     "react-d3-tree": "3.6.6",
     "react-dom": "19.0.0",
